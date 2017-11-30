@@ -4,17 +4,22 @@ prulifed1
 
 
 
-10.133.48.108
+10.135.48.108
 npitwjw
 Jiankang@17 
 
 
 
-IP: 10.133.54.216
+IP: 10.153.54.206
 My VM account: npitzyt 
-Password: Nuo456Nuo
+Password: Nuo45Nuo
 Please use PruOneDesk Hong Kong (1) 
 
-10.133.48.108
+10.135.48.108
+npitwjw
+Jiankang@17
+
+
+10.135.48.108
 npitwjw
 Jiankang@17
